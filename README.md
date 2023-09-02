@@ -10,7 +10,7 @@ This repository is meant to aid students like us to get into and collaborate whi
 
 ## How to commit into this Repository:
 
-1. In the main branch of the repository, there will be a folder 'CP Problems'. You may add a seperate text file for each question with the filenaming as follows: <Problem Title>-<Problem Source>.txt
+1. In the main branch of the repository, there will be a folder 'CP Problems'. You may add a seperate text file for each question with the filenaming as follows: Problem Title+Problem Source.txt
 2. Inside this text file, add a link to the original problem source, as well as a link to the solution if you have come up with one (Should be uploaded into your folder) . This link should point to a point in your subfolder.
 
 ## Inside your Folder:
