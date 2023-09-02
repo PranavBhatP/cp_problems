@@ -27,3 +27,11 @@ This repository is meant to aid students like us to get into and collaborate whi
 ## Learning Github:
 
 To learn Github, you can use many resources. Please create a branch out of the main repository so that you don't end up meddling around with the wrong files. Once all the changes have been made final, you would be allowed to have a pull request into the main repository.
+
+In short, Follow the follow steps:
+1. Make a branch of the official Main repository
+2. Make all your changes through that.
+3. Perform a Pull request.
+4. Merge it with the main channel if everything goes fine :)
+
+***Last but not least: Have a great time doing Competitive Programming and remain consistent.***
