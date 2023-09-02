@@ -35,3 +35,6 @@ In short, Follow the follow steps:
 4. Merge it with the main channel if everything goes fine :)
 
 ***Last but not least: Have a great time doing Competitive Programming and remain consistent.***
+(If you guys face any issues, you can contact us through our GitHub Profiles)
+
+- Have Fun! :)
