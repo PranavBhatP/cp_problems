@@ -1,0 +1,5 @@
+Link: https://codeforces.com/problemset/problem/1840/B
+Source: Codeforces
+Level: Div 3
+
+Solution Status: To be Given
