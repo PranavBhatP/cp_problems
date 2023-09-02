@@ -4,4 +4,4 @@
 2. Source: Codeforces
 3. Level: Div 3
 
-Solution Status: Unsolved
+Solution Status: <span style="color:red"> Unsolved </span>
