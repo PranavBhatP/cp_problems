@@ -23,3 +23,7 @@ This repository is meant to aid students like us to get into and collaborate whi
 ## Resources:
 
 1. There will also be a folder in the main repository. This will be the 'Resources' Folder. You may upload any resources or hyperlinks in a text file so that others may refer to these sources.
+
+## Learning Github:
+
+To learn Github, you can use many resources. Please create a branch out of the main repository so that you don't end up meddling around with the wrong files. Once all the changes have been made final, you would be allowed to have a pull request into the main repository.
