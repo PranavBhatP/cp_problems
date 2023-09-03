@@ -2,11 +2,18 @@
 
 My name is Calisto. I am currently a First Year student studying here in the IT Branch. I have been into competitive coding for the past two months. I am currently a noob at this but am looking to get better. Mostly, I solve questions from the CodeForces question banks. I haven't taken part in any of the contests yet and don't have a rating for the same reason.
 
+<<<<<<< HEAD
 ***Rating***: Unrated
 
 ***Level I am able to solve comfortably as of now***: Level 3 (Mostly the first 1 or 2 Questions)
 
 ***Frequency of Solving***: As of now, I don't solve questions very regularly as I have not yet set a daily slot for CP but I aim on doing that in the near future.
+=======
+1. **Rating**: Unrated
+2. **Level I am able to solve comfortably as of now**: Level 3 (Mostly the first 1 or 2 Questions)
+3. **Frequency of Solving**: As of now, I don't solve questions very regularly as I have not yet set a daily slot for CP but I aim on doing that in the near future.
+4. CodeForces Account: (https://codeforces.com/profile/Calisto_Mathias)
+>>>>>>> f2d818440016dadda52e0093d56a0d64a62f8a67
 
 ***Language of Choice:***: C++
 
