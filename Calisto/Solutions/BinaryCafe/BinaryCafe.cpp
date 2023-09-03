@@ -10,7 +10,7 @@ int main(){
 			cout<<n+1<<endl;
 		}
 		else{
-			cout<<floor(pow(2,k))<<endl;
+			cout<<static_cast<int>(pow(2,k))<<endl;
 		}
 	}
 }
