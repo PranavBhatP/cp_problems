@@ -5,5 +5,5 @@ Source: codeforces
 Division: 3
 Status: <code>Solved</code>
 
-Solution: 
+Solution: https://github.com/PranavBhatP/cp_problems/blob/main/Calisto/Solutions/GiftCarpet/Solution.cpp
 Submitted By: Calisto
