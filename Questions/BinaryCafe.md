@@ -4,4 +4,6 @@
 2. Source: Codeforces
 3. Level: Div 3
 
-Solution Status: <code style="color : red"> Unsolved </code>
+Solution Status: <code> Solved </code>
+Solution By: Calisto-Mathias
+Solution Link: ../Calisto/Solutions/BinaryCafe/BinaryCafe.cpp
