@@ -9,4 +9,4 @@ Solution Status: <code> Solved </code>
 
 Solution By: Calisto-Mathias
 
-Solution Link: ../Calisto/Solutions/BinaryCafe/BinaryCafe.cpp
+Solution Link: [Solution](https://github.com/PranavBhatP/cp_problems/blob/main/Calisto/Solutions/BinaryCafe/BinaryCafe.cpp)
