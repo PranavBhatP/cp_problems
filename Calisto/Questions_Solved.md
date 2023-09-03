@@ -11,4 +11,4 @@
 	2. Source: CodeForces
 	3. Hyperlink: https://codeforces.com/contest/1862/problem/A
 	4. Question Code: 1862A
-	5. Solution Link: 
+	5. Solution Link: https://github.com/PranavBhatP/cp_problems/blob/main/Calisto/Solutions/GiftCarpet/Solution.cpp
