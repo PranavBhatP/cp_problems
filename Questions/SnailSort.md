@@ -5,6 +5,6 @@
 3. Level: 4 kyu
 
 Solutions status: <code>Unsolved</code>
-Solution by: 
+Solution by: Pranav
 
 Solution link : 
