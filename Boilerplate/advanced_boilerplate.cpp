@@ -42,11 +42,3 @@ int main(){
 		solve();
 	return 0;
 }
-/*
-doing a bitwise OR operation can only increase or make hte number stay the same but it cannot decrease the number. Also when, it is increasing the number, it can only do so in magnitudes of the bits that are currently 0 in the number. So in order for it to not be able to give an output, it should be because the bit is already occupied in the number. Hence we can do this using a while loop in my opinion or any other method that is repetitive over the pwoers of 2.
-*/
-/*
-Some Important Facts:
-
-1) Binary XOR of an even number and its next number is always equal to 1. 
-*/
