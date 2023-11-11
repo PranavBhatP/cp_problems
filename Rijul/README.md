@@ -8,4 +8,5 @@ My language of choice is JAVA. JAVA is one of the most widely used languages for
 ## How I am going to organize this sub-repo:
 
 1. The text file "Questions.md" will contain all the questions that I have solved. I will also be providing a hyperlink to the question.
-2. The solution java file will be named according to the question name. In that I will be writing the JAVA code for the solution followed by an explanation(if I am able to explain it :D) in the comments after the code.
+2. The file Boilerplate.java contains the boilerplate code for solving a problem in JAVA. In this code, I have imported the basic libraries used and have taken in put for 't' test cases. You only need to take input for each test case and write your logic and output inside the while loop.
+3. The solution java file will be named according to the question name. In that I will be writing the JAVA code for the solution followed by an explanation(if I am able to explain it :D) in the comments after the code.
