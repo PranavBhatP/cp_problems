@@ -1,7 +1,10 @@
+/* package codechef; // don't place package name! */
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+/* Name of the class has to be "Main" only if the class is public. */
 class AppendForOr
 {
 	public static void main (String[] args) throws java.lang.Exception
@@ -17,19 +20,17 @@ class AppendForOr
 		        a[i] = sc.nextInt();
 		        r|=a[i];
 		    }
-		    int ans = -1;
-		    if(r>y){
-		        ans = -1;
-		    }
-		    else{
-		        for(int i = 0;i<=y;i++){
-		            if((i|r)==y){
-		                ans = i;
-		                break;
-		            }
+		    if(r<=y){
+		        if((r^=y)<=y){
+		            System.out.println(r);
+		        }
+		        else{
+		            System.out.println("-1");
 		        }
 		    }
-		    System.out.println(ans);
+		    else{
+		        System.out.println("-1");
+		    }
 		}
         sc.close();
 	}
