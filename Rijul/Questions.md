@@ -6,3 +6,4 @@
 4. Elections in Chefland: https://www.codechef.com/problems/ELECTN
 5. Project Euler 1: https://projecteuler.net/problem=1
 6. Decode the morse code: https://www.codewars.com/kata/54b724efac3d5402db00065e/train/java
+7. Who likes it: https://www.codewars.com/kata/5266876b8f4bf2da9b000362/java
