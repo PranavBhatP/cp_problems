@@ -23,3 +23,9 @@
    3. Hyperlink:
    4. Question Code:
    5. Solution Link:
+5. Append Or:
+   1. Language Used: C++
+   2. Source: CodeChef
+   3. Hyperlink: https://www.codechef.com/problems/APPENDOR?tab=statement
+   4. Question Code: (NIL)
+   5. Solution Link: https://github.com/PranavBhatCP/cp_problems/blob/main/Calisto/Solutions/AppendOr/AppendOr.cpp
