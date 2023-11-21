@@ -29,3 +29,9 @@
    3. Hyperlink: https://www.codechef.com/problems/APPENDOR?tab=statement
    4. Question Code: (NIL)
    5. Solution Link: https://github.com/PranavBhatCP/cp_problems/blob/main/Calisto/Solutions/AppendOr/AppendOr.cpp
+6. Two Sums:
+   1. Language used: C++
+   2. Source: LeetCode
+   3. Hyperlink: https://leetcode.com/problems/two-sum
+   4. Question Code: Easy
+   5. Solution Link: https://github.com/PranavBhatCP/cp_problems/blob/main/Calisto/Solutions/TwoSum/n_log_n_faster.cpp
