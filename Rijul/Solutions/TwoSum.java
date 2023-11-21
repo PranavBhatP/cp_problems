@@ -15,10 +15,16 @@ public class TwoSum{
             }
             else{
                 for(int i=0;i<nums.length;i++){
-                    if(nums[i]==copy[lower]) res[0]=i;
+                    if(nums[i]==copy[lower]){
+                        res[0]=i;
+                        break;
+                    }
                 }
                 for(int j=0;j<nums.length;j++){
-                    if((j!=res[0]) && (nums[j]==copy[upper])) res[1]=j;
+                    if((j!=res[0]) && (nums[j]==copy[upper])){
+                        res[1]=j;
+                        break;
+                    }
                 }
                 return res; 
             } 
