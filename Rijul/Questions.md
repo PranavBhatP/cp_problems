@@ -8,3 +8,5 @@
 6. Decode the morse code: https://www.codewars.com/kata/54b724efac3d5402db00065e/train/java
 7. Who likes it: https://www.codewars.com/kata/5266876b8f4bf2da9b000362/java
 8. Number Spiral: https://cses.fi/problemset/task/1071/
+9. Two Sum: https://leetcode.com/problems/two-sum/description/
+10. Three Sum: https://leetcode.com/problems/3sum/description/
